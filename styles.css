@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://i.ibb.co/tMPPYr9/image-from-rawpixel-id-516754-jpeg.jpg);
+background-size: cover;
+  margin-left: 5%;
+  color: white;
+  text-shadow: 1px 1px #3d3d3b;
+}
+
+img {
+  width: 200px;
+}
+
+h1 {
+  color: #2afaec;
+  font-size: 45px;
+  text-shadow: 1px 1px black;
+}
+
+h3 {
+  font-size: 27px;
+  color: #baffee;
+  margin-left: 15px;
+}
+
+hr {
+  margin-left: 17%;
+  border-style: dotted none none;
+  border-color: #a3d2ca;
+  border-width: 5px;
+  width: 5%;
+}
+
+.a {
+  font-size: 25px;
+}
+
+.b {
+  font-size: 20px;
+}
+.move{
+  margin-left: 20px;
+}
